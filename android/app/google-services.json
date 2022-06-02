@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142489286935",
+    "project_id": "trendsenser",
+    "storage_bucket": "trendsenser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142489286935:android:487c918506faf077069f52",
+        "android_client_info": {
+          "package_name": "com.example.trend_stock_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142489286935-27r3f2974kvtssto04h9lfimgfqd5fmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJBwmLfNzmhxa5X_IAUkl3o7WxCttjf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142489286935-27r3f2974kvtssto04h9lfimgfqd5fmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
